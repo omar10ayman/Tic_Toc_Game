@@ -1,0 +1,19 @@
+.boxes{
+   display: flex !important;
+   height: 180px !important;
+   width: 180px !important;
+   background-color: #1f3540;
+   border: 2px solid black;
+   border-radius: 12px;
+   cursor: pointer;
+   margin: 5px;
+}
+.board{
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.board img{
+    margin: 40px 40px;
+}
